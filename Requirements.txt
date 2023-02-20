@@ -1,0 +1,7 @@
+pip install snscrape
+
+pip install tweepy
+
+pip install pandas 
+
+pip install nltk
