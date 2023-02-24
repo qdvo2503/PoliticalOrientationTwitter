@@ -5,3 +5,5 @@ pip install tweepy
 pip install pandas 
 
 pip install nltk
+
+pip install scikit-learn
