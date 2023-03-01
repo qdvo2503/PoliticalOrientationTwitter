@@ -7,3 +7,7 @@ pip install pandas
 pip install nltk
 
 pip install scikit-learn
+
+pip install nbiimporter
+
+pip install nltk
